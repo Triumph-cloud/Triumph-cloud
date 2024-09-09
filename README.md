@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Triumph-FOLMAN.
 - 👀 I’m interested in Business/Workflow automation.
 - 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on various Business application management.
+- 💞️ I’m looking to collaborate on various DevOps and Business application management projects.
 - 📫 You can reach me on whatsapp:+2349039903512. slack:triumph-folman.slack.com. email: triumphtop@outlook.com 
-- 😄 He/Him
+- 😄 He/Him.
 - ⚡ I love to travel the world.
 
 <!---
