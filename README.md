@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business/Workflow automation.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on various DevOps and Business application management projects.
-- 📫 You can reach me on whatsapp:+2349039903512. slack:triumph-folman.slack.com. email: triumphtop@outlook.com 
+- 📫 You can reach me on WhatsApp: +2349039903512. slack:triumph-folman.slack.com. email: triumphtop@gmail.com 
 - 😄 He/Him.
 - ⚡ I love to travel the world.
 
